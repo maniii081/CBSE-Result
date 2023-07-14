@@ -1,1 +1,2 @@
-# CBSE-Result
+# Result
+Created class 12th CBSE board result preview using HTML and CSS...
